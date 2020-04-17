@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BaileyTestScene.unity
+    guid: beaccee1c3906d14ea7adc6f74216bc8
+  - enabled: 1
+    path: Assets/Scenes/JamesTestScene.unity
+    guid: 44e651ed5e0a36748a06cce0e1baa2f8
+  - enabled: 0
+    path: 
+    guid: 4166a63ca773dc444994e576528cf1ba
+  - enabled: 0
+    path: 
+    guid: 4166a63ca773dc444994e576528cf1ba
+  - enabled: 1
+    path: Assets/Scenes/DominicTestScene.unity
+    guid: d247691a8dc41f146a7fdc4d4b13831a
+  - enabled: 1
+    path: Assets/Scenes/AudioTesting.unity
+    guid: 90df4c30499805a4185fa65a578ed289
+  - enabled: 1
+    path: Assets/Scenes/Level Desgin (Idea).unity
+    guid: 896a47f029bd1f04d9239162649ac0b8
+  - enabled: 1
+    path: Assets/Scenes/LVL1_Scene.unity
+    guid: 0d093d1dc8eef594999c25333f6ac5ef
